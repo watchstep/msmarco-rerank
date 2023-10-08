@@ -1,6 +1,7 @@
 # Reranking with LLaMA2 
 
 ```bash
+rerank
 ├─ .conda
 ├─ .gitignore
 ├─ anserini-tools
@@ -13,7 +14,7 @@
 ```
 
 ```bash
-(base) conda create -n rerank python=3.8 *pyserini 패키지 설치때문에 3.8 환경
+(base) conda create -n rerank python=3.8 # pyserini 패키지 설치때문에 3.8 환경
 (base) conda activate rerank
 
 (rerank) conda install wget
