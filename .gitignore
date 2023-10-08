@@ -1,4 +1,5 @@
-collection/
+collections/
 data/
 /*.tar.gz
 /*.tsv
+indexes/
